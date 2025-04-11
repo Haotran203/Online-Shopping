@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IPHONE STORE</string>
+
+    <string name="first_slide">Hàng chính hãng Apple</string>
+    <string name="second_slide">Giao hàng nhanh và an toàn</string>
+    <string name="third_slide">Luôn mang đến cho khách hàng những trải nghiệm tốt nhất</string>
+
+    <string name="description">♥ Chào mừng đến với chúng tôi ♥\n\n iPhone Store - Địa chỉ lý tưởng\nCho tín đồ đam mê hàng Apple !</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
